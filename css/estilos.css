@@ -34,6 +34,7 @@ tr{
 }
 #cedulaTexto{
     margin: 1px 100px;
+    border-radius: 10px;
 }
 #nombre{
     margin: 1px 100px;
@@ -41,6 +42,7 @@ tr{
 }
 #nombreTexto{
     margin: 1px 100px;
+    border-radius: 10px;
 }
 #apellido{
     margin: 1px 100px;
@@ -48,6 +50,7 @@ tr{
 }
 #apellidoTexto{
     margin: 1px 100px;
+    border-radius: 10px;
 }
 #edad{
     margin: 1px 100px;
@@ -55,6 +58,7 @@ tr{
 }
 #edadTexto{
     margin: 1px 100px;
+    border-radius: 10px;
 }
 #sexo{
     margin: 1px 100px;
@@ -62,11 +66,13 @@ tr{
 }
 #sexoTexto{
     margin: 1px 100px;
+    border-radius: 10px;
 }
 #enviarBtn{
     margin: 5px 100px;
     color: white;
     background-color: rgb(37, 37, 38);
+    border-radius: 10px;
 }
 #enviarBtn:hover{
     background-color: rgb(30,30,30);
@@ -80,6 +86,7 @@ tr{
 }
 #pulsacionTexto{
     margin: 1px 100px;
+    border-radius: 10px;
 }
 .formRegistro{
     border-radius: 10px;
@@ -129,6 +136,7 @@ tr{
     text-decoration: none;
     color: white;
     background-color: blue;
+    border-radius: 10px;
 }
 .Menu li a:hover{
     background-color: rgb(2, 2, 63);
